@@ -6,7 +6,8 @@ Curso de ciência da computação
 
 > Os membros do grupo são: 
 > - Pedro Judice Quintanilha de Albuquerque
-> - Ciclano Albuquerque
+> - Larissa Cássia de Miranda
+> - Ji Xinyi
 
 # Estrutura do Documento
 
