@@ -182,7 +182,7 @@ Wireframe
 
 # Metodologia
 
-O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique sobrecarregados. estipulamos datas de entrega e analisamos em grupo as entregas.
+O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique sobrecarregados. Estipulamos datas de entrega e analisamos em grupo as entregas.
 ## Divisão de Papéis
  - Github -- Pedro
  - Wireframe -- Larissa
