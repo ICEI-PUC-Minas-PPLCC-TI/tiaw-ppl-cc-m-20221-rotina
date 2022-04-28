@@ -1,20 +1,11 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+Dificuldade em organizar rotina
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-`CURSO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
+Curso de ciência da computação
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
+> - Pedro Judice Quintanilha de Albuquerque
 > - Ciclano Albuquerque
 
 # Estrutura do Documento
@@ -53,74 +44,44 @@
 
 
 # Introdução
+A maioria das pessoas nos dias de hoje vivem uma vida bastante corrida, nosso dia a dia nos priva de realizarmos todas as tarefas que gostaríamos e assim acabamos ficando sem tempo para fazer aquele trabalho da faculdade, sair com os amigos, ter um dia de lazer e etc.
+Conciliar todas essas tarefas parece impossível dentro das 24 horas de um dia, e infelizmente não tem como aumentar nossas horas diárias, então o que nos resta é organizar nossa rotina de forma inteligente, de forma que consigamos achar tempo para todas (ou quase todas).
+
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Observando esse contexto, nota-se que o dia a dia das pessoas está cada vez mais corrido e a quantidade de afazeres está sempre aumentando, então para dar conta de todas as tarefas precisa-se de ser muito organizado e sem a ajuda de terceiros se organizar pode ser uma tarefa quase impossível.
+Percebemos que, nos dias de hoje, existem certos problemas envolvendo a organização de rotina, tais como:
+ - Falta de tempo para a realização das tarefas
+ - Esquecimento das tarefas devido a falta de organização
+ - dificuldade em achar uma forma prática para se organizar
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo do grupo é desenvolver um software que auxilie o usuário a planejar sua rotina de forma que ela fique mais prática e organizada. Assim o usuário consegue melhorar sua gestão de tempo, tornando-o mais produtivo.
+objetivos específicos:
+ - oferecer um local em que o usuário consiga organizar sua rotina de forma fácil e eficaz
+ - entregar para o usuário uma rotina personalizada para as suas demandas
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ter uma rotina organizada traz vários benefícios para nossa vida, tais quais
+ - aumentar nossa produtividade
+ - ter tempo para atividades de lazer
+ - melhor gestão de tempo
+ - diminuição no estresse
+sendo assim não ter uma rotina organizada pode te custar uma vaga de emprego, ou sua própria saúde mental
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso público alvo são principalmente as pessoas que realizam alguma ativdade, seja estudar, trabalhar ou os dois
+ 
+Porém devido as informações adquiridas através das entrevistas vimos que a maioria do nosso publico alvo são estudantes de 18 a 25 anos
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
