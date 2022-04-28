@@ -121,7 +121,7 @@ Exemplo de Persona 3
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO...| QUERO/PRECISO ...|PARA ...|
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Usuário do sistema       | Registrar Horarios                | Para ter controle de tempo |
